@@ -1,0 +1,32 @@
+{
+    "id": 1,
+    "isMarried": true,
+    "name": "yaakov",
+    "eyes": {
+        "color": "brown",
+        "cartilage": {
+            "somekey": "somevalue"
+        }
+    },
+    "children": [
+        {
+            "name": "yahav",
+            "age": 6
+        },
+        {
+            "name": "tamar",
+            "age": 5
+        },
+        {
+            "name": "haleli",
+            "age": 3
+        },
+        {
+            "name": "alma",
+            "age": 1
+        },
+        {
+            "name": "no name"
+        }
+    ]
+}
